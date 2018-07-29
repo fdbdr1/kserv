@@ -1,0 +1,25 @@
+{
+  "name": "kserv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kserv.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdbdr1/kserv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdbdr1/kserv/issues"
+  },
+  "homepage": "https://github.com/fdbdr1/kserv#readme"
+}
